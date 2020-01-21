@@ -1,21 +1,23 @@
-# This is a large heading
+# Kevin's stuff
 
-## This is a small heading
+## Look at all this stuff
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing
-A local *habitation* and a **name**.
+Making some changes
+To all this stuff
+Bernese Mountain Dog
+I'm on a BOAT!
 
--This is
--and unordered
--list
+
+- added a space
+- because it wasnt
+- right the first time 
 
 1. This is
 2. an ordered
 3. list
 
-Here is `some code` in the middle of a sentence.
+Here is `some code` in the middle of a sentence. Look what I can do... I can write some code.  now I just gotta code some code and yall can call my Codie!
+
 
 ```
 This is
